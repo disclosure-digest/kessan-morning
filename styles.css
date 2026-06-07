@@ -283,6 +283,8 @@ button {
 input,
 select {
   width: 100%;
+  min-width: 0;
+  max-width: 100%;
   min-height: 46px;
   padding: 10px 12px;
 }
@@ -368,7 +370,7 @@ input:focus {
 .items {
   display: grid;
   align-content: start;
-  gap: 12px;
+  gap: 10px;
 }
 
 .industry-group {
@@ -434,7 +436,7 @@ input:focus {
 }
 
 .item {
-  padding: 16px;
+  padding: 14px;
 }
 
 .item-header {
@@ -446,33 +448,33 @@ input:focus {
 
 .item h3 {
   margin: 2px 0 0;
-  font-size: 18px;
-  line-height: 1.35;
+  font-size: 17px;
+  line-height: 1.28;
 }
 
 .item h4 {
-  margin: 12px 0 8px;
-  font-size: 14px;
-  line-height: 1.45;
+  margin: 9px 0 6px;
+  font-size: 13px;
+  line-height: 1.42;
 }
 
 .item p {
-  margin: 0 0 10px;
-  line-height: 1.65;
+  margin: 0 0 8px;
+  line-height: 1.55;
 }
 
 .business-brief {
-  margin-top: 12px;
+  margin-top: 9px;
   border: 1px solid rgba(96, 212, 255, 0.22);
   border-left: 3px solid rgba(96, 212, 255, 0.72);
   border-radius: 8px;
   background: linear-gradient(90deg, rgba(96, 212, 255, 0.10), rgba(255, 79, 179, 0.05));
-  padding: 10px 11px;
+  padding: 8px 10px;
 }
 
 .business-brief span {
   display: block;
-  margin-bottom: 4px;
+  margin-bottom: 3px;
   color: #9de6ff;
   font-size: 10px;
   font-weight: 900;
@@ -483,10 +485,10 @@ input:focus {
   margin: 0;
   overflow: hidden;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   color: #d8e6f7;
-  font-size: 13px;
-  line-height: 1.55;
+  font-size: 12px;
+  line-height: 1.48;
 }
 
 .filing-summary {
@@ -496,14 +498,14 @@ input:focus {
 .tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
-  margin-top: 12px;
+  gap: 5px;
+  margin-top: 9px;
 }
 
 .tag {
   border: 1px solid #2f3b4d;
   border-radius: 999px;
-  padding: 4px 9px;
+  padding: 3px 8px;
   background: #0a0f16;
   color: var(--muted);
   font-size: 11px;
@@ -590,18 +592,18 @@ input:focus {
 .document-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 12px;
+  gap: 7px;
+  margin-top: 9px;
 }
 
 .doc-link {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 38px;
+  min-height: 36px;
   border: 1px solid rgba(255, 79, 179, 0.55);
   border-radius: 8px;
-  padding: 8px 12px;
+  padding: 7px 11px;
   background: rgba(255, 79, 179, 0.08);
   color: var(--accent);
   font-size: 13px;
@@ -646,8 +648,8 @@ input:focus {
 
   .date-panel,
   .control-panel {
-    padding: 10px;
-    gap: 8px;
+    padding: 8px;
+    gap: 6px;
     box-shadow: 0 10px 24px rgba(0, 0, 0, 0.20);
   }
 
@@ -677,8 +679,23 @@ input:focus {
 
   .date-panel label,
   .control-panel label {
-    gap: 5px;
+    gap: 4px;
     font-size: 11px;
+  }
+
+  .date-panel input,
+  .date-panel button {
+    min-height: 40px;
+    padding: 7px 9px;
+  }
+
+  .date-panel input[type="date"] {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .date-actions {
+    gap: 6px;
   }
 
   .date-panel .meta {
@@ -705,7 +722,7 @@ input:focus {
   }
 
   .calendar-grid {
-    gap: 5px;
+    gap: 3px;
   }
 
   .calendar-head {
@@ -714,11 +731,12 @@ input:focus {
 
   .calendar-subtitle {
     font-size: 10px;
+    line-height: 1.2;
   }
 
   .calendar-weekdays,
   .calendar-days {
-    gap: 3px;
+    gap: 2px;
   }
 
   .calendar-weekdays span {
@@ -726,14 +744,14 @@ input:focus {
   }
 
   .calendar-day {
-    min-height: 34px;
+    min-height: 30px;
     border-radius: 6px;
     font-size: 11px;
   }
 
   .calendar-legend {
-    gap: 6px;
-    font-size: 10px;
+    gap: 5px;
+    font-size: 9px;
   }
 
   .dot {
@@ -755,7 +773,7 @@ input:focus {
   }
 
   .detail {
-    padding: 12px 12px 26px;
+    padding: 10px 10px 24px;
     gap: 10px;
   }
 
@@ -795,12 +813,12 @@ input:focus {
   }
 
   .item {
-    padding: 13px;
+    padding: 11px;
   }
 
   .business-brief {
-    margin-top: 10px;
-    padding: 8px 9px;
+    margin-top: 8px;
+    padding: 7px 8px;
   }
 
   .empty-state {
@@ -814,7 +832,7 @@ input:focus {
 
   .item-header {
     display: grid;
-    gap: 8px;
+    gap: 6px;
   }
 }
 
@@ -845,7 +863,7 @@ input:focus {
   }
 
   .tags {
-    gap: 5px;
+    gap: 4px;
   }
 
   .tag {
@@ -860,6 +878,6 @@ input:focus {
 
   .doc-link {
     width: 100%;
-    min-height: 44px;
+    min-height: 40px;
   }
 }
