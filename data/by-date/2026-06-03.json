@@ -1,0 +1,365 @@
+{
+  "generatedAt": "2026-06-06T15:08:37.146Z",
+  "coverageThrough": "2026-06-03",
+  "dataSource": "TDnet public disclosure list + company metadata",
+  "summary": "2026-06-03 にTDnetで開示された決算関連資料を一覧化しました。",
+  "meta": {
+    "totalDisclosures": 164,
+    "earningsDisclosures": 10,
+    "metadataSource": "data/company-metadata.json when available",
+    "industryScheme": "TOPIX 17 sectors",
+    "impactScore": "marketCap if available, otherwise TOPIX size / market segment / disclosure title proxy"
+  },
+  "companies": [
+    {
+      "ticker": "5133",
+      "name": "テリロジーホールディングス",
+      "tdnetName": "テリロジーＨＤ",
+      "market": "スタンダード（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "情報・通信業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "17:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期 決算説明会資料",
+          "summary": "17:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260602560553.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260602560553.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "5915",
+      "name": "駒井ハルテック",
+      "tdnetName": "駒井ハルテック",
+      "market": "スタンダード（内国株式）",
+      "industry": "建設・資材",
+      "industry17": "建設・資材",
+      "industry33": "金属製品",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "17:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期 決算説明資料",
+          "summary": "17:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260601558699.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260601558699.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "8057",
+      "name": "内田洋行",
+      "tdnetName": "内田洋行",
+      "market": "プライム（内国株式）",
+      "industry": "商社・卸売",
+      "industry17": "商社・卸売",
+      "industry33": "卸売業",
+      "marketCap": null,
+      "topixSize": "Small1",
+      "marketImpactScore": 500,
+      "impactRankReason": "TOPIX規模区分 Small1 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年７月期 第３四半期決算短信〔日本基準〕（連結）",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260602560867.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260602560867.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "342A",
+      "name": "Ｆ－光貴",
+      "tdnetName": "Ｆ－光貴",
+      "market": "福",
+      "industry": "未分類",
+      "industry17": "未分類",
+      "industry33": "未分類",
+      "marketCap": null,
+      "topixSize": null,
+      "marketImpactScore": 230,
+      "impactRankReason": "時価総額未取得のため、市場区分（福）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "15:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "（訂正）2026年3月期決算短信〔日本基準〕（非連結）の一部訂正に関するお知らせ",
+          "summary": "15:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260603561620.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260603561620.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "3908",
+      "name": "コラボス",
+      "tdnetName": "コラボス",
+      "market": "スタンダード（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "情報・通信業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "15:00",
+          "type": "earnings",
+          "documentKind": "supplement",
+          "documentKindLabel": "補足資料",
+          "importance": "medium",
+          "title": "2026年３月期 通期 決算補足説明資料",
+          "summary": "15:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260603561159.pdf",
+          "documents": [
+            {
+              "label": "補足資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260603561159.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "9220",
+      "name": "エフビー介護サービス",
+      "tdnetName": "エフビー介護サービス",
+      "market": "スタンダード（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "サービス業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "14:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期 決算説明資料",
+          "summary": "14:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260603561480.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260603561480.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "1871",
+      "name": "ピーエス・コンストラクション",
+      "tdnetName": "ピーエス",
+      "market": "プライム（内国株式）",
+      "industry": "建設・資材",
+      "industry17": "建設・資材",
+      "industry33": "建設業",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "13:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "（訂正）「2026年3月期決算説明会資料」の一部訂正について",
+          "summary": "13:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260603561571.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260603561571.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "4116",
+      "name": "大日精化工業",
+      "tdnetName": "大日精化",
+      "market": "プライム（内国株式）",
+      "industry": "素材・化学",
+      "industry17": "素材・化学",
+      "industry33": "化学",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "12:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期 決算説明会資料",
+          "summary": "12:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260602559996.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260602559996.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "3925",
+      "name": "ダブルスタンダード",
+      "tdnetName": "ダブルスタンダード",
+      "market": "プライム（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "情報・通信業",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "11:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "(訂正・数値データ訂正)2026年３月期 決算短信[日本基準]（連結）の一部訂正について",
+          "summary": "11:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260528553293.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260528553293.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "6768",
+      "name": "タムラ製作所",
+      "tdnetName": "タムラ製",
+      "market": "プライム（内国株式）",
+      "industry": "電機・精密",
+      "industry17": "電機・精密",
+      "industry33": "電気機器",
+      "marketCap": null,
+      "topixSize": "Small1",
+      "marketImpactScore": 500,
+      "impactRankReason": "TOPIX規模区分 Small1 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-06-03 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-06-03",
+          "time": "08:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "（訂正・数値データ訂正)「2026年3月期決算短信[日本基準](連結)」の一部訂正に関するお知らせ",
+          "summary": "08:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260602559783.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260602559783.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

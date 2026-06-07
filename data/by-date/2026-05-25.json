@@ -1,0 +1,1453 @@
+{
+  "generatedAt": "2026-06-06T15:08:38.445Z",
+  "coverageThrough": "2026-05-25",
+  "dataSource": "TDnet public disclosure list + company metadata",
+  "summary": "2026-05-25 にTDnetで開示された決算関連資料を一覧化しました。",
+  "meta": {
+    "totalDisclosures": 322,
+    "earningsDisclosures": 44,
+    "metadataSource": "data/company-metadata.json when available",
+    "industryScheme": "TOPIX 17 sectors",
+    "impactScore": "marketCap if available, otherwise TOPIX size / market segment / disclosure title proxy"
+  },
+  "companies": [
+    {
+      "ticker": "7433",
+      "name": "伯東",
+      "tdnetName": "伯東",
+      "market": "プライム（内国株式）",
+      "industry": "商社・卸売",
+      "industry17": "商社・卸売",
+      "industry33": "卸売業",
+      "marketCap": null,
+      "topixSize": "Small1",
+      "marketImpactScore": 500,
+      "impactRankReason": "TOPIX規模区分 Small1 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "17:30",
+          "type": "earnings",
+          "documentKind": "supplement",
+          "documentKindLabel": "補足資料",
+          "importance": "medium",
+          "title": "（訂正）「2026年３月期 決算補足説明資料」の一部訂正について",
+          "summary": "17:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546652.pdf",
+          "documents": [
+            {
+              "label": "補足資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546652.pdf"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260522545461.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260522545461.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "4116",
+      "name": "大日精化工業",
+      "tdnetName": "大日精化",
+      "market": "プライム（内国株式）",
+      "industry": "素材・化学",
+      "industry17": "素材・化学",
+      "industry33": "化学",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "17:00",
+          "type": "earnings",
+          "documentKind": "supplement",
+          "documentKindLabel": "補足資料",
+          "importance": "medium",
+          "title": "（訂正）「2026年３月期 決算補足説明資料」の一部訂正について",
+          "summary": "17:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546033.pdf",
+          "documents": [
+            {
+              "label": "補足資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546033.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "2304",
+      "name": "ＣＳＳホールディングス",
+      "tdnetName": "ＣＳＳＨＤ",
+      "market": "スタンダード（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "サービス業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "16:50",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年9月期第2四半期決算説明資料",
+          "summary": "16:50 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525547125.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525547125.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "2984",
+      "name": "ヤマイチエステート",
+      "tdnetName": "ヤマイチ",
+      "market": "スタンダード（内国株式）",
+      "industry": "不動産",
+      "industry17": "不動産",
+      "industry33": "不動産業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 500,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "16:30",
+          "type": "earnings",
+          "documentKind": "supplement",
+          "documentKindLabel": "補足資料",
+          "importance": "medium",
+          "title": "（訂正）「2026年3月期 決算補足説明資料」の一部訂正に関するお知らせ",
+          "summary": "16:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525547103.pdf",
+          "documents": [
+            {
+              "label": "補足資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525547103.pdf"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-25",
+          "time": "13:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "（訂正・数値データ訂正） 2026年3月期決算短信〔日本基準〕（連結）の一部訂正について",
+          "summary": "13:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546385.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546385.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "3443",
+      "name": "川田テクノロジーズ",
+      "tdnetName": "川田ＴＥＣＨ",
+      "market": "プライム（内国株式）",
+      "industry": "建設・資材",
+      "industry17": "建設・資材",
+      "industry33": "金属製品",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "16:30",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期 決算説明会資料",
+          "summary": "16:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525547033.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525547033.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "3741",
+      "name": "セック",
+      "tdnetName": "セック",
+      "market": "プライム（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "情報・通信業",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "16:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年3月期 決算説明資料",
+          "summary": "16:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260522545478.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260522545478.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "7769",
+      "name": "リズム",
+      "tdnetName": "リズム",
+      "market": "プライム（内国株式）",
+      "industry": "電機・精密",
+      "industry17": "電機・精密",
+      "industry33": "精密機器",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 500,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "16:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "（訂正）「2026 年３月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+          "summary": "16:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546465.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546465.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "9450",
+      "name": "ファイバーゲート",
+      "tdnetName": "ファイバーゲート",
+      "market": "スタンダード（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "情報・通信業",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "16:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年6月期3Q 決算説明動画および書き起こし公開のお知らせ",
+          "summary": "16:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546878.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546878.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "196A",
+      "name": "ＭＦＳ",
+      "tdnetName": "Ｇ－ＭＦＳ",
+      "market": "グロース（内国株式）",
+      "industry": "金融（除く銀行）",
+      "industry17": "金融（除く銀行）",
+      "industry33": "その他金融業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "決算説明会および質疑応答書き起こしのお知らせ",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546121.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546121.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "4047",
+      "name": "関東電化工業",
+      "tdnetName": "関電化",
+      "market": "プライム（内国株式）",
+      "industry": "素材・化学",
+      "industry17": "素材・化学",
+      "industry33": "化学",
+      "marketCap": null,
+      "topixSize": "Small1",
+      "marketImpactScore": 500,
+      "impactRankReason": "TOPIX規模区分 Small1 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年3月期 決算説明会資料",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546119.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546119.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "4914",
+      "name": "高砂香料工業",
+      "tdnetName": "高砂香料",
+      "market": "プライム（内国株式）",
+      "industry": "素材・化学",
+      "industry17": "素材・化学",
+      "industry33": "化学",
+      "marketCap": null,
+      "topixSize": "Small1",
+      "marketImpactScore": 500,
+      "impactRankReason": "TOPIX規模区分 Small1 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期 決算説明会資料",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260522545218.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260522545218.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "5991",
+      "name": "日本発條",
+      "tdnetName": "ニッパツ",
+      "market": "プライム（内国株式）",
+      "industry": "建設・資材",
+      "industry17": "建設・資材",
+      "industry33": "金属製品",
+      "marketCap": null,
+      "topixSize": "Mid400",
+      "marketImpactScore": 700,
+      "impactRankReason": "TOPIX規模区分 Mid400 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "high",
+          "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔日本基準〕（連結）」の一部訂正について",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260520542666.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260520542666.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "6037",
+      "name": "楽待",
+      "tdnetName": "楽待",
+      "market": "スタンダード（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "サービス業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 500,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "過去の決算短信等の訂正に関するお知らせ",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546365.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546365.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "6104",
+      "name": "芝浦機械",
+      "tdnetName": "芝浦機械",
+      "market": "プライム（内国株式）",
+      "industry": "機械",
+      "industry17": "機械",
+      "industry33": "機械",
+      "marketCap": null,
+      "topixSize": "Small1",
+      "marketImpactScore": 500,
+      "impactRankReason": "TOPIX規模区分 Small1 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年3月期決算短信〔日本基準〕(連結)",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546447.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546447.pdf"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "supplement",
+          "documentKindLabel": "補足資料",
+          "importance": "medium",
+          "title": "2026年3月期決算補足資料",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546456.pdf",
+          "documents": [
+            {
+              "label": "補足資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546456.pdf"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年3月期決算短信の開示が期末後50日を超えたことに関するお知らせ",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546478.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546478.pdf"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "（訂正・数値データ訂正）「2026年3月期 第3四半期決算短信〔日本基準〕(連結)」の一部訂正に関するお知らせ",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546600.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546600.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "7277",
+      "name": "ＴＢＫ",
+      "tdnetName": "ＴＢＫ",
+      "market": "スタンダード（内国株式）",
+      "industry": "自動車・輸送機",
+      "industry17": "自動車・輸送機",
+      "industry33": "輸送用機器",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 500,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "(訂正・数値データ訂正)「2026年３月期 決算短信〔日本基準〕(連結)」の一部訂正について",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260520541937.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260520541937.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "8061",
+      "name": "西華産業",
+      "tdnetName": "西華産",
+      "market": "プライム（内国株式）",
+      "industry": "商社・卸売",
+      "industry17": "商社・卸売",
+      "industry33": "卸売業",
+      "marketCap": null,
+      "topixSize": "Small1",
+      "marketImpactScore": 500,
+      "impactRankReason": "TOPIX規模区分 Small1 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期 決算説明資料",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546495.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546495.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "9729",
+      "name": "トーカイ",
+      "tdnetName": "トーカイ",
+      "market": "プライム（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "サービス業",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:30",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期決算説明会資料",
+          "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525545958.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525545958.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "7013",
+      "name": "ＩＨＩ",
+      "tdnetName": "ＩＨＩ",
+      "market": "プライム（内国株式）",
+      "industry": "機械",
+      "industry17": "機械",
+      "industry33": "機械",
+      "marketCap": null,
+      "topixSize": "Mid400",
+      "marketImpactScore": 700,
+      "impactRankReason": "TOPIX規模区分 Mid400 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "high",
+          "title": "（訂正・数値データ訂正）「2026年３月期 決算短信〔IFRS〕（連結）」の一部訂正に関するお知らせ",
+          "summary": "15:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260522544232.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260522544232.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "7670",
+      "name": "オーウエル",
+      "tdnetName": "オーウエル",
+      "market": "スタンダード（内国株式）",
+      "industry": "商社・卸売",
+      "industry17": "商社・卸売",
+      "industry33": "卸売業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 500,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "15:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "（訂正）「2026 年３月期決算短信〔日本基準〕（連結）」の一部訂正に関するお知らせ",
+          "summary": "15:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546525.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546525.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "4206",
+      "name": "アイカ工業",
+      "tdnetName": "アイカ工",
+      "market": "プライム（内国株式）",
+      "industry": "素材・化学",
+      "industry17": "素材・化学",
+      "industry33": "化学",
+      "marketCap": null,
+      "topixSize": "Mid400",
+      "marketImpactScore": 700,
+      "impactRankReason": "TOPIX規模区分 Mid400 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "14:30",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "high",
+          "title": "2026年3月期決算説明会資料",
+          "summary": "14:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546282.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546282.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "9337",
+      "name": "トリドリ",
+      "tdnetName": "Ｇ－トリドリ",
+      "market": "グロース（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "サービス業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "14:30",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年12月期 第１四半期決算説明動画と書き起こし公開のお知らせ",
+          "summary": "14:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525545974.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525545974.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "2908",
+      "name": "フジッコ",
+      "tdnetName": "フジッコ",
+      "market": "プライム（内国株式）",
+      "industry": "食品",
+      "industry17": "食品",
+      "industry33": "食料品",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "13:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期 決算説明会資料",
+          "summary": "13:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260521544001.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260521544001.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "4687",
+      "name": "ＴＤＣソフト",
+      "tdnetName": "ＴＤＣソフト",
+      "market": "プライム（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "情報・通信業",
+      "marketCap": null,
+      "topixSize": "Small2",
+      "marketImpactScore": 320,
+      "impactRankReason": "TOPIX規模区分 Small2 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "13:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期決算〔日本基準〕（連結）決算説明会資料",
+          "summary": "13:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546430.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546430.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "6284",
+      "name": "日精エー・エス・ビー機械",
+      "tdnetName": "ＡＳＢ機械",
+      "market": "プライム（内国株式）",
+      "industry": "機械",
+      "industry17": "機械",
+      "industry33": "機械",
+      "marketCap": null,
+      "topixSize": "Small1",
+      "marketImpactScore": 500,
+      "impactRankReason": "TOPIX規模区分 Small1 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "13:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年9月期 第2四半期決算説明会資料",
+          "summary": "13:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260522545547.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260522545547.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "6859",
+      "name": "エスペック",
+      "tdnetName": "エスペック",
+      "market": "プライム（内国株式）",
+      "industry": "電機・精密",
+      "industry17": "電機・精密",
+      "industry33": "電気機器",
+      "marketCap": null,
+      "topixSize": "Small1",
+      "marketImpactScore": 500,
+      "impactRankReason": "TOPIX規模区分 Small1 を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "13:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2025年度（2026年3月期）決算説明",
+          "summary": "13:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546219.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546219.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "3173",
+      "name": "Ｃｏｍｉｎｉｘ",
+      "tdnetName": "Ｃｏｍｉｎｉｘ",
+      "market": "スタンダード（内国株式）",
+      "industry": "商社・卸売",
+      "industry17": "商社・卸売",
+      "industry33": "卸売業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "12:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年3月期 決算説明会資料",
+          "summary": "12:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546288.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546288.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "140A",
+      "name": "ｉＦｒｅｅＥＴＦ　米国１０年国債先物インバース",
+      "tdnetName": "ｉＦ米１０国債ベア",
+      "market": "ETF・ETN",
+      "industry": "-",
+      "industry17": "-",
+      "industry33": "-",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 450,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年4月期（2025年10月11日～2026年4月10日）決算短信",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546091.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546091.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "2017",
+      "name": "ｉＦｒｅｅＥＴＦ　ＪＰＸプライム１５０",
+      "tdnetName": "ｉＦＪＰＸプラ１５０",
+      "market": "ETF・ETN",
+      "industry": "-",
+      "industry17": "-",
+      "industry33": "-",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 450,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年4月期（2025年10月11日～2026年4月10日）決算短信",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546083.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546083.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "2624",
+      "name": "ｉＦｒｅｅＥＴＦ　日経２２５（年４回決算型）",
+      "tdnetName": "ｉＦ２２５年４",
+      "market": "ETF・ETN",
+      "industry": "-",
+      "industry17": "-",
+      "industry33": "-",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 450,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年4月期（2025年10月11日～2026年4月10日）決算短信",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546047.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546047.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "2625",
+      "name": "ｉＦｒｅｅＥＴＦ　ＴＯＰＩＸ（年４回決算型）",
+      "tdnetName": "ｉＦＴＰＸ年４",
+      "market": "ETF・ETN",
+      "industry": "-",
+      "industry17": "-",
+      "industry33": "-",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 450,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年4月期（2025年10月11日～2026年4月10日）決算短信",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546054.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546054.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "2868",
+      "name": "グローバルＸ　Ｓ＆Ｐ５００・カバード・コール　ＥＴＦ",
+      "tdnetName": "ＧＸＳＰＸカバコ",
+      "market": "ETF・ETN",
+      "industry": "-",
+      "industry17": "-",
+      "industry33": "-",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 450,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年4月期（2025年10月11日～2026年4月10日）決算短信",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546028.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546028.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "356A",
+      "name": "グローバルＸ　Ｓ＆Ｐ５００　キャッシュフロー・トップ１００　ＥＴＦ",
+      "tdnetName": "ＧＸＳＰＣＦ１００",
+      "market": "ETF・ETN",
+      "industry": "-",
+      "industry17": "-",
+      "industry33": "-",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 450,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年4月期（2025年10月11日～2026年4月10日）決算短信",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546025.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546025.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "363A",
+      "name": "ｉＦｒｅｅＥＴＦ　英国ＦＴＳＥ１００",
+      "tdnetName": "ｉＦ英国ＦＴ１００",
+      "market": "ETF・ETN",
+      "industry": "-",
+      "industry17": "-",
+      "industry33": "-",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 450,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年4月期（2025年10月11日～2026年4月10日）決算短信",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546095.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546095.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "379A",
+      "name": "グローバルＸ　Ｓ＆Ｐ５００　ＥＴＦ（ダイナミック・プロテクション）",
+      "tdnetName": "ＧＸＳＰＸプロテクト",
+      "market": "ETF・ETN",
+      "industry": "-",
+      "industry17": "-",
+      "industry33": "-",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 450,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "summary",
+          "documentKindLabel": "決算短信",
+          "importance": "medium",
+          "title": "2026年4月期（2025年10月11日～2026年4月10日）決算短信",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546022.pdf",
+          "documents": [
+            {
+              "label": "決算短信",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546022.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "5038",
+      "name": "ｅＷｅＬＬ",
+      "tdnetName": "Ｇ－ｅＷｅＬＬ",
+      "market": "グロース（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "情報・通信業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年12月期 第１四半期決算説明会 質疑応答（要旨）書き起こし",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546122.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546122.pdf"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年12月期 第１四半期決算説明会 書き起こし記事及び動画公開のお知らせ",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260525546130.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260525546130.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "6230",
+      "name": "ＳＡＮＥＩ",
+      "tdnetName": "ＳＡＮＥＩ",
+      "market": "スタンダード（内国株式）",
+      "industry": "機械",
+      "industry17": "機械",
+      "industry33": "機械",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期 決算説明資料",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260522544564.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260522544564.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "9686",
+      "name": "東洋テック",
+      "tdnetName": "東洋テック",
+      "market": "スタンダード（内国株式）",
+      "industry": "情報通信・サービスその他",
+      "industry17": "情報通信・サービスその他",
+      "industry33": "サービス業",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "11:00",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期決算説明動画配信に関するお知らせ",
+          "summary": "11:00 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260522544228.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260522544228.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "4594",
+      "name": "ブライトパス・バイオ",
+      "tdnetName": "Ｇ－ブライトパス",
+      "market": "グロース（内国株式）",
+      "industry": "医薬品",
+      "industry17": "医薬品",
+      "industry33": "医薬品",
+      "marketCap": null,
+      "topixSize": "-",
+      "marketImpactScore": 420,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
+      "overallSignal": "neutral",
+      "brief": "2026-05-25 にTDnetで開示された決算関連資料です。",
+      "items": [
+        {
+          "date": "2026-05-25",
+          "time": "08:30",
+          "type": "earnings",
+          "documentKind": "presentation",
+          "documentKindLabel": "決算説明資料",
+          "importance": "medium",
+          "title": "2026年３月期決算説明会資料",
+          "summary": "08:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
+          "sourceName": "TDnet",
+          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260522544315.pdf",
+          "documents": [
+            {
+              "label": "決算説明資料",
+              "url": "https://www.release.tdnet.info/inbs/140120260522544315.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

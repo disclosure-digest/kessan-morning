@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>決算ダイジェスト</title>
+    <meta name="theme-color" content="#05070a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="決算ダイジェスト">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <p class="eyebrow">TDnet Earnings</p>
+          <h1>決算ダイジェスト</h1>
+          <p id="meta" class="meta">読み込み中...</p>
+        </div>
+
+        <section class="date-panel" aria-label="日付選択">
+          <label>
+            <span>発表日</span>
+            <input id="dateInput" type="date">
+          </label>
+          <div class="date-actions">
+            <button id="todayButton" type="button">最新</button>
+            <button id="clearDateButton" type="button">全期間</button>
+          </div>
+          <label class="check-row range-toggle">
+            <input id="rangeToggle" type="checkbox">
+            <span>期間指定</span>
+          </label>
+          <div id="rangeControls" class="range-controls" hidden>
+            <label>
+              <span>開始日</span>
+              <input id="rangeStartInput" type="date">
+            </label>
+            <label>
+              <span>終了日</span>
+              <input id="rangeEndInput" type="date">
+            </label>
+          </div>
+          <p id="dateStatus" class="meta">日付を選ぶと、その日にTDnetで開示された決算情報を表示します。</p>
+          <div id="calendarGrid" class="calendar-grid" aria-label="取得済みカレンダー"></div>
+        </section>
+
+        <section class="control-panel" aria-label="表示条件">
+          <button id="filterToggleButton" class="filter-toggle" type="button">詳細条件を開く</button>
+          <label>
+            <span>並び順</span>
+            <select id="sortSelect">
+              <option value="impact-desc">市場インパクトが大きい順</option>
+              <option value="time-desc">開示時刻が新しい順</option>
+              <option value="time-asc">開示時刻が古い順</option>
+              <option value="code-asc">証券コード順</option>
+              <option value="company-asc">会社名順</option>
+            </select>
+          </label>
+
+          <label>
+            <span>資料種別</span>
+            <select id="documentKindFilter">
+              <option value="all">すべての資料</option>
+              <option value="summary">決算短信</option>
+              <option value="presentation">決算説明資料</option>
+              <option value="supplement">補足資料</option>
+              <option value="materials">決算資料</option>
+              <option value="other">その他</option>
+            </select>
+          </label>
+
+          <label>
+            <span>東証17業種</span>
+            <select id="industryFilter">
+              <option value="all">すべての業種</option>
+            </select>
+          </label>
+
+          <label>
+            <span>市場</span>
+            <select id="marketFilter">
+              <option value="all">すべての市場</option>
+            </select>
+          </label>
+
+          <label>
+            <span>重要度</span>
+            <select id="importanceFilter">
+              <option value="all">すべての重要度</option>
+              <option value="high">高</option>
+              <option value="medium">中</option>
+              <option value="low">低</option>
+            </select>
+          </label>
+
+          <label class="check-row">
+            <input id="groupIndustryToggle" type="checkbox">
+            <span>業種ごとにまとめる</span>
+          </label>
+        </section>
+      </aside>
+
+      <main class="detail">
+        <section class="toolbar">
+          <div>
+            <p class="eyebrow">Earnings Digest</p>
+            <h2>決算ダイジェスト</h2>
+            <p id="pageTitle" class="page-subtitle">読み込み中...</p>
+          </div>
+          <button id="refreshButton" type="button">更新</button>
+        </section>
+
+        <section id="overview" class="overview"></section>
+        <section id="items" class="items"></section>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("./sw.js").catch(() => {});
+      }
+    </script>
+  </body>
+</html>

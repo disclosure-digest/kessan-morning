@@ -1,0 +1,8 @@
+{
+  "name": "決算ダイジェスト",
+  "short_name": "決算Digest",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#05070a",
+  "theme_color": "#05070a"
+}

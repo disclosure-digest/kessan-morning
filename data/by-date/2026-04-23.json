@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-06-06T15:08:46.976Z",
+  "coverageThrough": "2026-04-23",
+  "dataSource": "TDnet public disclosure list + company metadata",
+  "summary": "2026-04-23 にTDnetで開示された決算関連資料を一覧化しました。",
+  "meta": {
+    "totalDisclosures": 0,
+    "earningsDisclosures": 0,
+    "metadataSource": "data/company-metadata.json when available",
+    "industryScheme": "TOPIX 17 sectors",
+    "impactScore": "marketCap if available, otherwise TOPIX size / market segment / disclosure title proxy"
+  },
+  "companies": []
+}
