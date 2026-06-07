@@ -23,7 +23,10 @@
         <section class="date-panel" aria-label="日付選択">
           <label>
             <span>発表日</span>
-            <input id="dateInput" type="date">
+            <span class="date-input-wrap">
+              <input id="dateInput" type="date">
+              <button id="datePickerButton" class="date-picker-button" type="button">日付を選択</button>
+            </span>
           </label>
           <div class="date-actions">
             <button id="todayButton" type="button">最新</button>
@@ -105,17 +108,14 @@
 
       <main class="detail">
         <section class="toolbar">
-          <div>
-            <p class="eyebrow">Earnings Digest</p>
-            <h2>決算ダイジェスト</h2>
-            <p id="pageTitle" class="page-subtitle">読み込み中...</p>
-          </div>
+          <p id="pageTitle" class="page-subtitle">読み込み中...</p>
           <button id="refreshButton" type="button">更新</button>
         </section>
 
         <section id="overview" class="overview"></section>
         <section id="items" class="items"></section>
       </main>
+      <button id="backToTopButton" class="back-to-top" type="button">先頭に戻る</button>
     </div>
 
     <script src="./app.js"></script>

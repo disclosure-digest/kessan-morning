@@ -29,6 +29,7 @@ const STORAGE_KEY = "daily-company-intel-view";
 const elements = {
   meta: document.querySelector("#meta"),
   date: document.querySelector("#dateInput"),
+  datePicker: document.querySelector("#datePickerButton"),
   dateStatus: document.querySelector("#dateStatus"),
   today: document.querySelector("#todayButton"),
   clearDate: document.querySelector("#clearDateButton"),
@@ -47,7 +48,8 @@ const elements = {
   title: document.querySelector("#pageTitle"),
   overview: document.querySelector("#overview"),
   items: document.querySelector("#items"),
-  refresh: document.querySelector("#refreshButton")
+  refresh: document.querySelector("#refreshButton"),
+  backToTop: document.querySelector("#backToTopButton")
 };
 
 async function loadData() {
@@ -762,6 +764,7 @@ function persistViewState() {
 
 function syncDateControls() {
   elements.date.value = state.dateMode === "single" ? state.selectedDate : "";
+  elements.datePicker.textContent = state.dateMode === "single" && state.selectedDate ? slashDate(state.selectedDate) : "日付を選択";
   elements.rangeToggle.checked = state.dateMode === "range";
   elements.rangeControls.hidden = state.dateMode !== "range";
   elements.rangeStart.value = state.rangeStart;
@@ -770,6 +773,10 @@ function syncDateControls() {
   elements.importance.value = state.importance;
   elements.documentKind.value = state.documentKind;
   elements.groupIndustry.checked = state.groupByIndustry;
+}
+
+function slashDate(value) {
+  return String(value || "").replaceAll("-", "/");
 }
 
 function initializeResponsiveFilters() {
@@ -789,6 +796,15 @@ elements.date.addEventListener("change", async (event) => {
   persistViewState();
   syncDateControls();
   await loadSelectedDate();
+});
+
+elements.datePicker.addEventListener("click", () => {
+  if (typeof elements.date.showPicker === "function") {
+    elements.date.showPicker();
+  } else {
+    elements.date.focus();
+    elements.date.click();
+  }
 });
 
 elements.today.addEventListener("click", async () => {
@@ -883,6 +899,14 @@ elements.filterToggle.addEventListener("click", () => {
 });
 
 elements.refresh.addEventListener("click", loadData);
+
+elements.backToTop.addEventListener("click", () => {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
+window.addEventListener("scroll", () => {
+  elements.backToTop.classList.toggle("visible", window.scrollY > 500);
+}, { passive: true });
 
 initializeResponsiveFilters();
 loadData().catch((error) => {
