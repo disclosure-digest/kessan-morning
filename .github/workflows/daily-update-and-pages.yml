@@ -1,0 +1,74 @@
+name: Daily company earnings update
+
+on:
+  workflow_dispatch:
+    inputs:
+      historical_start:
+        description: "Optional historical backfill start date, e.g. 2025-04-01"
+        required: false
+        type: string
+  schedule:
+    # 05:00 JST
+    - cron: "0 20 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: python -m pip install xlrd
+
+      - name: Update JPX metadata
+        run: |
+          mkdir -p work
+          curl -L "https://www.jpx.co.jp/markets/statistics-equities/misc/tvdivq0000001vg2-att/data_j.xls" -o work/data_j.xls
+          python tools/import-jpx-metadata.py work/data_j.xls
+
+      - name: Update TDnet earnings data
+        run: |
+          TARGET_DATE=$(TZ=Asia/Tokyo date -d "yesterday" +%F)
+          node tools/fetch-tdnet-earnings.mjs "$TARGET_DATE"
+          if [ -n "${{ github.event.inputs.historical_start }}" ]; then
+            node tools/backfill-tdnet-earnings.mjs "${{ github.event.inputs.historical_start }}" "$TARGET_DATE"
+            node tools/backfill-edinet-filings.mjs "${{ github.event.inputs.historical_start }}" "$TARGET_DATE"
+          else
+            node tools/backfill-tdnet-earnings.mjs 45 "$TARGET_DATE"
+            node tools/backfill-edinet-filings.mjs 45 "$TARGET_DATE"
+          fi
+          node tools/build-coverage-index.mjs
+
+      - name: Commit generated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/by-date data/edinet data/company-metadata.json data/coverage.json
+          git diff --cached --quiet || git commit -m "Update daily earnings data"
+          git pull --rebase origin main
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - uses: actions/deploy-pages@v4
