@@ -306,14 +306,6 @@
       "topixSize": "-",
       "marketCap": null
     },
-    "136A": {
-      "name": "三興商事",
-      "market": "PRO Market",
-      "industry33": "建設業",
-      "industry17": "建設・資材",
-      "topixSize": "-",
-      "marketCap": null
-    },
     "1375": {
       "name": "ユキグニファクトリー",
       "market": "プライム（内国株式）",
@@ -1636,7 +1628,7 @@
     },
     "166A": {
       "name": "タスキホールディングス",
-      "market": "グロース（内国株式）",
+      "market": "プライム（内国株式）",
       "industry33": "不動産業",
       "industry17": "不動産",
       "topixSize": "-",
@@ -1957,14 +1949,6 @@
     "1724": {
       "name": "シンクレイヤ",
       "market": "スタンダード（内国株式）",
-      "industry33": "建設業",
-      "industry17": "建設・資材",
-      "topixSize": "-",
-      "marketCap": null
-    },
-    "1726": {
-      "name": "ビーアールホールディングス",
-      "market": "プライム（内国株式）",
       "industry33": "建設業",
       "industry17": "建設・資材",
       "topixSize": "-",
@@ -4210,14 +4194,6 @@
       "topixSize": "-",
       "marketCap": null
     },
-    "2246": {
-      "name": "ＮＥＸＴ　ＦＵＮＤＳ　ブルームバーグ・フランス国債（７－１０年）インデックス（為替ヘッジあり）連動型上場投信",
-      "market": "ETF・ETN",
-      "industry33": "-",
-      "industry17": "-",
-      "topixSize": "-",
-      "marketCap": null
-    },
     "2247": {
       "name": "ｉＦｒｅｅＥＴＦ　Ｓ＆Ｐ５００（為替ヘッジなし）",
       "market": "ETF・ETN",
@@ -5546,14 +5522,6 @@
       "topixSize": "-",
       "marketCap": null
     },
-    "2540": {
-      "name": "養命酒製造",
-      "market": "プライム（内国株式）",
-      "industry33": "食料品",
-      "industry17": "食品",
-      "topixSize": "Small2",
-      "marketCap": null
-    },
     "254A": {
       "name": "ＡＩフュージョンキャピタルグループ",
       "market": "スタンダード（内国株式）",
@@ -6288,14 +6256,6 @@
       "industry33": "小売業",
       "industry17": "小売",
       "topixSize": "Small1",
-      "marketCap": null
-    },
-    "2686": {
-      "name": "ジーフット",
-      "market": "スタンダード（内国株式）",
-      "industry33": "小売業",
-      "industry17": "小売",
-      "topixSize": "-",
       "marketCap": null
     },
     "2687": {
@@ -8850,14 +8810,6 @@
       "topixSize": "Mid400",
       "marketCap": null
     },
-    "3198": {
-      "name": "ＳＦＰホールディングス",
-      "market": "プライム（内国株式）",
-      "industry33": "小売業",
-      "industry17": "小売",
-      "topixSize": "Small2",
-      "marketCap": null
-    },
     "3199": {
       "name": "綿半ホールディングス",
       "market": "プライム（内国株式）",
@@ -9276,14 +9228,6 @@
     },
     "3293": {
       "name": "アズマハウス",
-      "market": "スタンダード（内国株式）",
-      "industry33": "不動産業",
-      "industry17": "不動産",
-      "topixSize": "-",
-      "marketCap": null
-    },
-    "3294": {
-      "name": "イーグランド",
       "market": "スタンダード（内国株式）",
       "industry33": "不動産業",
       "industry17": "不動産",
@@ -10163,7 +10107,7 @@
       "marketCap": null
     },
     "3479": {
-      "name": "ティーケーピー",
+      "name": "ＴＫＰ",
       "market": "グロース（内国株式）",
       "industry33": "不動産業",
       "industry17": "不動産",
@@ -10450,14 +10394,6 @@
       "topixSize": "-",
       "marketCap": null
     },
-    "3546": {
-      "name": "アレンザホールディングス",
-      "market": "プライム（内国株式）",
-      "industry33": "小売業",
-      "industry17": "小売",
-      "topixSize": "Small2",
-      "marketCap": null
-    },
     "3547": {
       "name": "ユニシアホールディングス",
       "market": "スタンダード（内国株式）",
@@ -10476,7 +10412,7 @@
     },
     "3549": {
       "name": "クスリのアオキホールディングス",
-      "market": "プライム（内国株式）",
+      "market": "スタンダード（内国株式）",
       "industry33": "小売業",
       "industry17": "小売",
       "topixSize": "Mid400",
@@ -12508,7 +12444,7 @@
     },
     "3970": {
       "name": "イノベーション",
-      "market": "グロース（内国株式）",
+      "market": "スタンダード（内国株式）",
       "industry33": "情報・通信業",
       "industry17": "情報通信・サービスその他",
       "topixSize": "-",
@@ -15018,14 +14954,6 @@
       "topixSize": "-",
       "marketCap": null
     },
-    "4449": {
-      "name": "ギフティ",
-      "market": "プライム（内国株式）",
-      "industry33": "情報・通信業",
-      "industry17": "情報通信・サービスその他",
-      "topixSize": "Small2",
-      "marketCap": null
-    },
     "444A": {
       "name": "アイテル",
       "market": "PRO Market",
@@ -15261,14 +15189,6 @@
     "4493": {
       "name": "サイバーセキュリティクラウド",
       "market": "グロース（内国株式）",
-      "industry33": "情報・通信業",
-      "industry17": "情報通信・サービスその他",
-      "topixSize": "-",
-      "marketCap": null
-    },
-    "4494": {
-      "name": "バリオセキュア",
-      "market": "スタンダード（内国株式）",
       "industry33": "情報・通信業",
       "industry17": "情報通信・サービスその他",
       "topixSize": "-",
@@ -15560,14 +15480,6 @@
       "industry33": "医薬品",
       "industry17": "医薬品",
       "topixSize": "Small2",
-      "marketCap": null
-    },
-    "4556": {
-      "name": "カイノス",
-      "market": "スタンダード（内国株式）",
-      "industry33": "医薬品",
-      "industry17": "医薬品",
-      "topixSize": "-",
       "marketCap": null
     },
     "4558": {
@@ -16112,14 +16024,6 @@
       "industry33": "サービス業",
       "industry17": "情報通信・サービスその他",
       "topixSize": "Small2",
-      "marketCap": null
-    },
-    "4659": {
-      "name": "エイジス",
-      "market": "スタンダード（内国株式）",
-      "industry33": "サービス業",
-      "industry17": "情報通信・サービスその他",
-      "topixSize": "-",
       "marketCap": null
     },
     "465A": {
@@ -17440,14 +17344,6 @@
       "industry33": "化学",
       "industry17": "素材・化学",
       "topixSize": "Small2",
-      "marketCap": null
-    },
-    "4974": {
-      "name": "タカラバイオ",
-      "market": "プライム（内国株式）",
-      "industry33": "化学",
-      "industry17": "素材・化学",
-      "topixSize": "-",
       "marketCap": null
     },
     "4975": {
@@ -19219,7 +19115,7 @@
       "marketCap": null
     },
     "5531": {
-      "name": "中山不動産",
+      "name": "エヌバイテクノロジーズ",
       "market": "PRO Market",
       "industry33": "不動産業",
       "industry17": "不動産",
@@ -19954,6 +19850,14 @@
       "topixSize": "Small2",
       "marketCap": null
     },
+    "575A": {
+      "name": "前澤ホールディングス",
+      "market": "プライム（内国株式）",
+      "industry33": "機械",
+      "industry17": "機械",
+      "topixSize": "Small2",
+      "marketCap": null
+    },
     "576A": {
       "name": "グローバルＸ　チャイナテック・カバード・コール　ＥＴＦ",
       "market": "ETF・ETN",
@@ -20050,6 +19954,14 @@
       "topixSize": "-",
       "marketCap": null
     },
+    "581A": {
+      "name": "ＧＯ",
+      "market": "グロース（内国株式）",
+      "industry33": "情報・通信業",
+      "industry17": "情報通信・サービスその他",
+      "topixSize": "-",
+      "marketCap": null
+    },
     "5820": {
       "name": "三ッ星",
       "market": "スタンダード（内国株式）",
@@ -20106,6 +20018,14 @@
       "topixSize": "Mid400",
       "marketCap": null
     },
+    "583A": {
+      "name": "不動産流通システム",
+      "market": "PRO Market",
+      "industry33": "不動産業",
+      "industry17": "不動産",
+      "topixSize": "-",
+      "marketCap": null
+    },
     "5840": {
       "name": "日本総険",
       "market": "PRO Market",
@@ -20146,6 +20066,14 @@
       "topixSize": "-",
       "marketCap": null
     },
+    "584A": {
+      "name": "ＬｉＮＫＸ",
+      "market": "グロース（内国株式）",
+      "industry33": "情報・通信業",
+      "industry17": "情報通信・サービスその他",
+      "topixSize": "-",
+      "marketCap": null
+    },
     "5851": {
       "name": "リョービ",
       "market": "プライム（内国株式）",
@@ -20162,14 +20090,6 @@
       "topixSize": "-",
       "marketCap": null
     },
-    "5856": {
-      "name": "エルアイイーエイチ",
-      "market": "スタンダード（内国株式）",
-      "industry33": "小売業",
-      "industry17": "小売",
-      "topixSize": "-",
-      "marketCap": null
-    },
     "5857": {
       "name": "ＡＲＥホールディングス",
       "market": "プライム（内国株式）",
@@ -20183,6 +20103,14 @@
       "market": "グロース（内国株式）",
       "industry33": "非鉄金属",
       "industry17": "鉄鋼・非鉄",
+      "topixSize": "-",
+      "marketCap": null
+    },
+    "585A": {
+      "name": "日本バリュー・ボトムアップ株式投資戦略アクティブＥＴＦ",
+      "market": "ETF・ETN",
+      "industry33": "-",
+      "industry17": "-",
       "topixSize": "-",
       "marketCap": null
     },
@@ -20218,6 +20146,14 @@
       "topixSize": "-",
       "marketCap": null
     },
+    "586A": {
+      "name": "ＮＥＸＴ　ＦＵＮＤＳ　日経エンタメ・コンテンツ株指数連動型上場投信",
+      "market": "ETF・ETN",
+      "industry33": "-",
+      "industry17": "-",
+      "topixSize": "-",
+      "marketCap": null
+    },
     "5870": {
       "name": "ナルネットコミュニケーションズ",
       "market": "グロース（内国株式）",
@@ -20231,6 +20167,14 @@
       "market": "スタンダード（内国株式）",
       "industry33": "サービス業",
       "industry17": "情報通信・サービスその他",
+      "topixSize": "-",
+      "marketCap": null
+    },
+    "587A": {
+      "name": "インベスコＱＱＱトラスト　シリーズ１",
+      "market": "ETF・ETN",
+      "industry33": "-",
+      "industry17": "-",
       "topixSize": "-",
       "marketCap": null
     },
@@ -20314,6 +20258,14 @@
       "topixSize": "-",
       "marketCap": null
     },
+    "589A": {
+      "name": "ネイス",
+      "market": "グロース（内国株式）",
+      "industry33": "サービス業",
+      "industry17": "情報通信・サービスその他",
+      "topixSize": "-",
+      "marketCap": null
+    },
     "5900": {
       "name": "ダイケン",
       "market": "スタンダード（内国株式）",
@@ -20391,6 +20343,14 @@
       "market": "スタンダード（内国株式）",
       "industry33": "金属製品",
       "industry17": "建設・資材",
+      "topixSize": "-",
+      "marketCap": null
+    },
+    "591A": {
+      "name": "西條",
+      "market": "PRO Market",
+      "industry33": "小売業",
+      "industry17": "小売",
       "topixSize": "-",
       "marketCap": null
     },
@@ -20608,6 +20568,14 @@
       "industry33": "金属製品",
       "industry17": "建設・資材",
       "topixSize": "Small2",
+      "marketCap": null
+    },
+    "595A": {
+      "name": "不二興産",
+      "market": "PRO Market",
+      "industry33": "不動産業",
+      "industry17": "不動産",
+      "topixSize": "-",
       "marketCap": null
     },
     "5962": {
@@ -21227,7 +21195,7 @@
       "marketCap": null
     },
     "6093": {
-      "name": "エスクロー・エージェント・ジャパン",
+      "name": "ミトラグループ",
       "market": "スタンダード（内国株式）",
       "industry33": "サービス業",
       "industry17": "情報通信・サービスその他",
@@ -21522,14 +21490,6 @@
       "topixSize": "-",
       "marketCap": null
     },
-    "6173": {
-      "name": "アクアライン",
-      "market": "グロース（内国株式）",
-      "industry33": "サービス業",
-      "industry17": "情報通信・サービスその他",
-      "topixSize": "-",
-      "marketCap": null
-    },
     "6174": {
       "name": "デンタス",
       "market": "PRO Market",
@@ -21704,14 +21664,6 @@
       "industry33": "サービス業",
       "industry17": "情報通信・サービスその他",
       "topixSize": "Small1",
-      "marketCap": null
-    },
-    "6201": {
-      "name": "豊田自動織機",
-      "market": "プライム（内国株式）",
-      "industry33": "輸送用機器",
-      "industry17": "自動車・輸送機",
-      "topixSize": "-",
       "marketCap": null
     },
     "6203": {
@@ -22660,14 +22612,6 @@
     },
     "6402": {
       "name": "兼松エンジニアリング",
-      "market": "スタンダード（内国株式）",
-      "industry33": "機械",
-      "industry17": "機械",
-      "topixSize": "-",
-      "marketCap": null
-    },
-    "6403": {
-      "name": "水道機工",
       "market": "スタンダード（内国株式）",
       "industry33": "機械",
       "industry17": "機械",
@@ -23900,14 +23844,6 @@
     },
     "6668": {
       "name": "アドテック　プラズマ　テクノロジー",
-      "market": "スタンダード（内国株式）",
-      "industry33": "電気機器",
-      "industry17": "電機・精密",
-      "topixSize": "-",
-      "marketCap": null
-    },
-    "6670": {
-      "name": "ＭＣＪ",
       "market": "スタンダード（内国株式）",
       "industry33": "電気機器",
       "industry17": "電機・精密",
@@ -26236,14 +26172,6 @@
     },
     "7228": {
       "name": "デイトナ",
-      "market": "スタンダード（内国株式）",
-      "industry33": "輸送用機器",
-      "industry17": "自動車・輸送機",
-      "topixSize": "-",
-      "marketCap": null
-    },
-    "7229": {
-      "name": "ユタカ技研",
       "market": "スタンダード（内国株式）",
       "industry33": "輸送用機器",
       "industry17": "自動車・輸送機",
@@ -29114,14 +29042,6 @@
       "topixSize": "Small2",
       "marketCap": null
     },
-    "7922": {
-      "name": "三光産業",
-      "market": "スタンダード（内国株式）",
-      "industry33": "その他製品",
-      "industry17": "情報通信・サービスその他",
-      "topixSize": "-",
-      "marketCap": null
-    },
     "7927": {
       "name": "ムトー精工",
       "market": "スタンダード（内国株式）",
@@ -29495,14 +29415,6 @@
       "market": "スタンダード（内国株式）",
       "industry33": "その他製品",
       "industry17": "情報通信・サービスその他",
-      "topixSize": "-",
-      "marketCap": null
-    },
-    "7999": {
-      "name": "ＭＵＴＯＨホールディングス",
-      "market": "スタンダード（内国株式）",
-      "industry33": "電気機器",
-      "industry17": "電機・精密",
       "topixSize": "-",
       "marketCap": null
     },
@@ -30616,14 +30528,6 @@
       "industry33": "卸売業",
       "industry17": "商社・卸売",
       "topixSize": "Small2",
-      "marketCap": null
-    },
-    "8289": {
-      "name": "Ｏｌｙｍｐｉｃグループ",
-      "market": "スタンダード（内国株式）",
-      "industry33": "小売業",
-      "industry17": "小売",
-      "topixSize": "-",
       "marketCap": null
     },
     "8291": {
@@ -32426,14 +32330,6 @@
       "topixSize": "Mid400",
       "marketCap": null
     },
-    "9067": {
-      "name": "丸運",
-      "market": "スタンダード（内国株式）",
-      "industry33": "陸運業",
-      "industry17": "運輸・物流",
-      "topixSize": "-",
-      "marketCap": null
-    },
     "9068": {
       "name": "丸全昭和運輸",
       "market": "プライム（内国株式）",
@@ -32752,6 +32648,14 @@
       "industry33": "空運業",
       "industry17": "運輸・物流",
       "topixSize": "Mid400",
+      "marketCap": null
+    },
+    "92015": {
+      "name": "日本航空株式会社第１回社債型種類株式",
+      "market": "プライム（内国株式）",
+      "industry33": "空運業",
+      "industry17": "運輸・物流",
+      "topixSize": "-",
       "marketCap": null
     },
     "9202": {
@@ -33436,14 +33340,6 @@
     },
     "9337": {
       "name": "トリドリ",
-      "market": "グロース（内国株式）",
-      "industry33": "サービス業",
-      "industry17": "情報通信・サービスその他",
-      "topixSize": "-",
-      "marketCap": null
-    },
-    "9338": {
-      "name": "ＩＮＦＯＲＩＣＨ",
       "market": "グロース（内国株式）",
       "industry33": "サービス業",
       "industry17": "情報通信・サービスその他",
@@ -35319,14 +35215,6 @@
       "market": "スタンダード（内国株式）",
       "industry33": "卸売業",
       "industry17": "商社・卸売",
-      "topixSize": "-",
-      "marketCap": null
-    },
-    "9927": {
-      "name": "ワットマン",
-      "market": "スタンダード（内国株式）",
-      "industry33": "小売業",
-      "industry17": "小売",
       "topixSize": "-",
       "marketCap": null
     },

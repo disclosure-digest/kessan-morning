@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T23:44:08.094Z",
+  "generatedAt": "2026-07-03T23:39:22.984Z",
   "coverageThrough": "2026-06-23",
   "dataSource": "TDnet public disclosure list + company metadata",
   "summary": "2026-06-23 にTDnetで開示された決算関連資料を一覧化しました。",
@@ -366,7 +366,7 @@
       "ticker": "3970",
       "name": "イノベーション",
       "tdnetName": "イノベーション",
-      "market": "グロース（内国株式）",
+      "market": "スタンダード（内国株式）",
       "industry": "情報通信・サービスその他",
       "industry17": "情報通信・サービスその他",
       "industry33": "情報・通信業",
