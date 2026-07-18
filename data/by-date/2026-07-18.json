@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T20:38:31.581Z",
-  "coverageThrough": "2026-07-12",
+  "generatedAt": "2026-07-18T20:38:28.448Z",
+  "coverageThrough": "2026-07-18",
   "dataSource": "TDnet public disclosure list + company metadata",
-  "summary": "2026-07-12 にTDnetで開示された決算関連資料を一覧化しました。",
+  "summary": "2026-07-18 にTDnetで開示された決算関連資料を一覧化しました。",
   "meta": {
     "totalDisclosures": 0,
     "earningsDisclosures": 0,
