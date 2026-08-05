@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:03:16.472Z",
+  "generatedAt": "2026-08-05T20:59:11.970Z",
   "coverageThrough": "2026-08-03",
   "dataSource": "TDnet public disclosure list + company metadata",
   "summary": "2026-08-03 にTDnetで開示された決算関連資料を一覧化しました。",
@@ -2429,9 +2429,9 @@
       "industry17": "商社・卸売",
       "industry33": "卸売業",
       "marketCap": null,
-      "topixSize": "Mid400",
-      "marketImpactScore": 700,
-      "impactRankReason": "TOPIX規模区分 Mid400 を代理変数として使用",
+      "topixSize": "-",
+      "marketImpactScore": 450,
+      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
       "overallSignal": "neutral",
       "brief": "2026-08-03 にTDnetで開示された決算関連資料です。",
       "items": [
@@ -2441,7 +2441,7 @@
           "type": "earnings",
           "documentKind": "summary",
           "documentKindLabel": "決算短信",
-          "importance": "high",
+          "importance": "medium",
           "title": "2027年３月期 第１四半期決算短信〔日本基準〕（非連結）",
           "summary": "15:30 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
           "sourceName": "TDnet",

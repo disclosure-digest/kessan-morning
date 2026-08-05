@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:03:17.949Z",
+  "generatedAt": "2026-08-05T20:59:13.290Z",
   "coverageThrough": "2026-07-31",
   "dataSource": "TDnet public disclosure list + company metadata",
   "summary": "2026-07-31 にTDnetで開示された決算関連資料を一覧化しました。",
@@ -48,7 +48,7 @@
     },
     {
       "ticker": "368A",
-      "name": "北里コーポレーション",
+      "name": "北里",
       "tdnetName": "北里",
       "market": "プライム（内国株式）",
       "industry": "電機・精密",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:03:18.642Z",
+  "generatedAt": "2026-08-05T20:59:13.926Z",
   "coverageThrough": "2026-07-30",
   "dataSource": "TDnet public disclosure list + company metadata",
   "summary": "2026-07-30 にTDnetで開示された決算関連資料を一覧化しました。",
@@ -2103,7 +2103,7 @@
     },
     {
       "ticker": "3626",
-      "name": "ＴＩＳ",
+      "name": "ＴＩＳＩ",
       "tdnetName": "ＴＩＳＩ",
       "market": "プライム（内国株式）",
       "industry": "情報通信・サービスその他",
