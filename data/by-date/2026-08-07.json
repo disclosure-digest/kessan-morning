@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-09T20:21:39.607Z",
+  "generatedAt": "2026-08-10T20:32:49.066Z",
   "coverageThrough": "2026-08-07",
   "dataSource": "TDnet public disclosure list + company metadata",
   "summary": "2026-08-07 にTDnetで開示された決算関連資料を一覧化しました。",
   "meta": {
-    "totalDisclosures": 1627,
-    "earningsDisclosures": 993,
+    "totalDisclosures": 1626,
+    "earningsDisclosures": 992,
     "metadataSource": "data/company-metadata.json when available",
     "industryScheme": "TOPIX 17 sectors",
     "impactScore": "marketCap if available, otherwise TOPIX size / market segment / disclosure title proxy"
@@ -306,41 +306,6 @@
             {
               "label": "決算短信",
               "url": "https://www.release.tdnet.info/inbs/140120260807515643.pdf"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ticker": "4847",
-      "name": "インテリジェント　ウェイブ",
-      "tdnetName": "ＩＷＩ",
-      "market": "プライム（内国株式）",
-      "industry": "情報通信・サービスその他",
-      "industry17": "情報通信・サービスその他",
-      "industry33": "情報・通信業",
-      "marketCap": null,
-      "topixSize": "-",
-      "marketImpactScore": 420,
-      "impactRankReason": "時価総額未取得のため、市場区分（東）と開示表題を代理変数として使用",
-      "overallSignal": "neutral",
-      "brief": "2026-08-07 にTDnetで開示された決算関連資料です。",
-      "items": [
-        {
-          "date": "2026-08-07",
-          "time": "17:15",
-          "type": "earnings",
-          "documentKind": "presentation",
-          "documentKindLabel": "決算説明資料",
-          "importance": "medium",
-          "title": "2026年6月期第3四半期 決算説明会資料",
-          "summary": "17:15 TDnet開示。原文リンクから決算短信・決算資料を確認できます。",
-          "sourceName": "TDnet",
-          "sourceUrl": "https://www.release.tdnet.info/inbs/140120260807515661.pdf",
-          "documents": [
-            {
-              "label": "決算説明資料",
-              "url": "https://www.release.tdnet.info/inbs/140120260807515661.pdf"
             }
           ]
         }
