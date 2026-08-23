@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T20:13:24.056Z",
-  "coverageThrough": "2026-08-22",
+  "generatedAt": "2026-08-23T20:12:51.616Z",
+  "coverageThrough": "2026-08-23",
   "dataSource": "TDnet public disclosure list + company metadata",
-  "summary": "2026-08-22 にTDnetで開示された決算関連資料を一覧化しました。",
+  "summary": "2026-08-23 にTDnetで開示された決算関連資料を一覧化しました。",
   "meta": {
-    "totalDisclosures": 2,
+    "totalDisclosures": 0,
     "earningsDisclosures": 0,
     "metadataSource": "data/company-metadata.json when available",
     "industryScheme": "TOPIX 17 sectors",
